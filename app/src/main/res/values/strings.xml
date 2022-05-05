@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">games-kotlin-ui-layout</string>
+    <string name="header">"Game layout header"</string>
+    <string name="title_home_description">New and trending</string>
+    <string name="title_card">Contra III: The Alien Wars</string>
+    <string name="title_home_best_of_year">Best of the year</string>
+    <string name="title_game_god_of_war">God of War</string>
 </resources>
